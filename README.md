@@ -1,4 +1,4 @@
-# Study Mood Tracker
+# Study_Mood_Tracker
 
 A full-stack web application that helps students track their study sessions along with their emotional state. The system analyzes mood patterns across subjects and time periods to provide insights and smart study suggestions.
 
