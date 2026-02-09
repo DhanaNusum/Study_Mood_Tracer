@@ -236,7 +236,7 @@ You can now view study-mood-tracker-frontend in the browser.
 **Problem: "Authentication failed" (MongoDB Atlas)**
 - Verify username and password in connection string
 - Check if database user has read/write permissions
-- Ensure connection string format is correct: `mongodb+srv://user:pass@cluster.mongodb.net/dbname`
+- Ensure connection string format is correct: `mongodb+srv://<username>:<password>@cluster.mongodb.net/<dbname>`
 
 ---
 
